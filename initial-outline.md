@@ -1,3 +1,5 @@
+Note: this was written around summer of 2012
+
 ### Things I have learned
 
 #### Here are few things I learned along the way in the last 11 years [some of this I wish someone would have told me before I started working], and I thought I would share with you, and some of it may help in your future careers:
