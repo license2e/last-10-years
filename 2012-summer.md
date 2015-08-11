@@ -11,7 +11,7 @@ Note: this was written around summer of 2012
 
 3. When working with someone, connect with them, and when they praise you, request their specific recommendation on LinkedIn, after you connect with them (this is before they forget that you did something good)
 
-4. Every 4 - 6 months (or less if you get depressed like I do) reach out to everyone on your network at your current job or clients you recently worked with and request a general recommendation
+4. Every 4 - 6 months reach out to everyone on your network or clients you recently worked with and connect, request time to meet over coffee, reach out and see how they are doing.
 
 5. Post articles you read online [professional ones], or follow people you want to be like (Donald Trump, Jack Welch, Richard Branson, Jeff Weiner, etc) and re-post their articles that you agree with, BUT with your own comments on LinkedIn, and connect your Twitter, Google+ accounts, so you can easily cross-post from LinkedIn to there as well..
 
@@ -26,7 +26,7 @@ Note: this was written around summer of 2012
 
 4. If you are developer, get a Github account, like now, or wait, 2 months ago! Github is quickly becoming the standard of judging your technical skill, post homework assignments (so Andrei or Dima or I can help you as well), post interesting side projects (that aren't secret apps), fork other people's repositories and contribute code, contribute even a simple fix, this is a must!! What are you waiting for? You didn't get a Github account yet? Go.. This email can wait... Go... seriously!
 
-5. If you are designer, (Dan can probably speak better to this), get a Dribbble.com and a Behance.net account, start following people you like, start posting your designs on there.. 
+5. If you are designer, get a Dribbble.com and a Behance.net account, start following people you like, start posting your designs on there.. 
 
 6. If you are a human, practice, practice, practice, post designs and code even if its not great.. it doesnt matter.. (at first) eventually you will take down some of your work.. but for now, post, post, post.. homework assignments, sketches, experiments (even if they dont work), anything that can show your skills and more importantly, your progress..
 
